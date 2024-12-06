@@ -1,0 +1,45 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Configuration files with sensitive data
+config/*.conf
+
+# Temporary files
+tmp/
+temp/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Environment files
+.env
+.env.*
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Database files
+*.sql.gz
+*.dump
+
+# Build artifacts
+dist/
+build/
